@@ -1,0 +1,224 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #111721;
+  background-image: url(./img/orqafon.png);
+  width: 1400px;
+  margin: 0 auto;
+}
+.navbar {
+  height: 200px;
+  margin: 50px;
+  width: 1200px;
+  align-items: center;
+  display: flex;
+}
+.container {
+  /* height: 850px; */
+  width: 1200px;
+  margin: 0 auto;
+  /* background-image: path 2.png ; */
+}
+.head-left {
+  width: 200px;
+}
+.head-left img {
+  margin: 5px;
+}
+.center-part {
+  text-align: center;
+}
+.head-right {
+  color: #fff;
+  width: 1030px;
+  display: flex;
+  justify-content: end;
+}
+.head-right li {
+  margin-left: 50px;
+}
+.center-part {
+  width: 720px;
+  margin: 0 auto;
+}
+.center-text {
+  margin-top: 20px;
+  font-size: 50px;
+  color: #fff;
+}
+.center-paragrf {
+  width: 600px;
+  margin-top: 20px;
+  margin-left: 50px;
+  color: #fff;
+  font-size: 20px;
+  display: flex;
+}
+.center-button {
+  padding: 10px 100px;
+  margin: 20px;
+  background-color: blue;
+  border-radius: 40px;
+}
+.center-button a {
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+}
+.wrap-box {
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  align-items: center;
+}
+.box {
+  width: 350px;
+  color: #fff;
+  margin: 10px;
+}
+.box2 {
+  margin-top: 60px;
+  width: 350px;
+  color: #fff;
+  margin: 10px;
+}
+aside {
+  height: 500px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.aside-img {
+  margin-left: 20px;
+}
+.aside-text {
+  font-size: 30px;
+  width: 100px;
+  height: 200px;
+}
+.img-a {
+  background-color: blue;
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  color: #fff;
+}
+.wrap-three {
+  height: 300px;
+}
+.three {
+  position: relative;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  margin: 30px;
+  padding: 20px;
+  display: inline-block;
+  width: 800px;
+
+  background: #202a3c;
+}
+.card-contact {
+  font-size: 10px;
+  display: flex;
+  margin: 5px;
+  gap: 5px;
+}
+.card-contact h5 {
+  font-size: 8px;
+}
+.out-pach {
+  margin-top: -80px;
+  position: absolute;
+  z-index: 2;
+  color: #fff;
+  margin-left: 200px;
+  width: 800px;
+  height: 200px;
+
+  text-align: center;
+  background: #1b2330;
+  padding: 20px;
+}
+.input-button {
+  display: flex;
+  justify-content: center;
+}
+.email {
+  padding: 15px 100px;
+  border-radius: 40px;
+}
+.out-button {
+  padding: 15px 60px;
+  border-radius: 40px;
+
+  background: linear-gradient(152.13deg, #63e1d9 -150.21%, #34a0cd 170.03%);
+}
+.div-end {
+  position: absolute;
+  height: 500px;
+}
+.div-end img {
+  margin: 5px;
+}
+.div-end {
+  margin-bottom: 30px;
+  /* padding-left: 20px; */
+  padding-top: 150px;
+  position: absolute;
+  width: 1400px;
+  height: 400px;
+  background-color: #111721;
+}
+.div-end p {
+  color: white;
+}
+.main-end li {
+  text-decoration: none;
+  color: white;
+}
+
+.main-box {
+  margin: 10px;
+  width: 400px;
+}
+.main-wrap-box {
+  color: #fff;
+  display: flex;
+}
+.img {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+}
+/* .img a {
+
+  display: flex;
+  height: 50px;
+  width:50px;
+  margin: 10px;
+  
+} */
+.main-box-ul li {
+  margin: 20px;
+}
+.text {
+  margin: 10px;
+}
+.icon {
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  /* align-self: center; */
+}
+.main-img-text {
+  margin: 30px;
+}
